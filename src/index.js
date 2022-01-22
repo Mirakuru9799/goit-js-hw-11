@@ -17,7 +17,7 @@ const refs = {
 };
 
 refs.form.style =
-  'background-color: #4056b4; display: flex; justify-content: center; padding: 8px; margin-bottom: 8px; position: fixed; top: 0; z-index: 99; width: 100%';
+  'background-color: #3f57b3; display: flex; justify-content: center; padding: 8px; margin-bottom: 8px; position: fixed; top: 0; z-index: 99; width: 100%';
 refs.submitBtn.style = 'margin-left: 32px';
 refs.loadMoreBtn.style = ' display: none';
 refs.goUpBtn.style = ' display: none';
